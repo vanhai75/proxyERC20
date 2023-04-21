@@ -10,9 +10,4 @@ struct Swap{
     uint256 price;
     address reiciver;
 }
-struct BuyNFT{
-    uint256 price;
-    uint256 IDToken;
-    address Signer;
-    address Buyer;
-}
+
